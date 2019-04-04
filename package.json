@@ -1,5 +1,5 @@
 {
-  "name": "talentsoft-pageboard-elements",
+  "name": "@edasarl/talentsoft-pageboard-elements",
   "private": true,
   "version": "0.6.0",
   "description": "Elements for talensoft schema for pageboard",
