@@ -192,7 +192,6 @@ Pageboard.elements.talentsoft_offer = {
 Pageboard.elements.talentsoft_application = {
 	title: 'TalentSoft Application',
 	group: 'talentsoft',
-	standalone: true,
 	properties: {
 		type: {
 			anyOf: [{
@@ -254,7 +253,6 @@ Pageboard.elements.talentsoft_application = {
 Pageboard.elements.talentsoft_referential = {
 	title: 'TalentSoft Referential',
 	group: 'talentsoft',
-	standalone: true,
 	properties: {
 		type: {
 			type: 'string'
