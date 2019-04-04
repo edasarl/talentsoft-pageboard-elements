@@ -25,7 +25,20 @@ Pageboard.elements.talentsoft_offer = {
 		},
 		modificationDate: {
 			type: 'string',
-			format: 'date-time',
+			format: 'date',
+			coerce: true,
+			nullable: true
+		},
+		beginningDate: {
+			type: 'string',
+			format: 'date',
+			coerce: true,
+			nullable: true
+		},
+		startPublicationDate: {
+			type: 'string',
+			format: 'date',
+			coerce: true,
 			nullable: true
 		},
 		contractType: {
