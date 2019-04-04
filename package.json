@@ -1,0 +1,29 @@
+{
+  "name": "talentsoft-pageboard-elements",
+  "private": true,
+  "version": "0.6.0",
+  "description": "Elements for talensoft schema for pageboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edasarl/talentsoft-pageboard-elements.git"
+  },
+  "author": "Jérémy Lal <kapouer@melix.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edasarl/talentsoft-pageboard-elements/issues"
+  },
+  "homepage": "https://github.com/edasarl/talentsoft-pageboard-elements#readme",
+  "pageboard": {
+    "directories": [
+      "elements",
+      "ui"
+    ],
+    "elements": [
+      "elements/"
+    ]
+  }
+}
