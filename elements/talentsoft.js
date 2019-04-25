@@ -1,6 +1,6 @@
 Pageboard.elements.settings.properties.grants.items.anyOf.push({
 	const: 'talentsoft',
-	$level: 1000,
+	$level: 999, // just below writer
 	title: 'TalentSoft',
 	description: 'Application'
 });
